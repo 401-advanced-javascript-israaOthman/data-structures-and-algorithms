@@ -1,0 +1,29 @@
+{
+  "name": "data-structures-and-algorithms",
+  "version": "1.0.0",
+  "description": "| challenges----   |      linkes   | \r   |------------------|:-------------:|\r   | Reverse an array | [challenge-01](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/1)   |\r   | array-shift      | [challenge-02](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/2)   |\r   |                  |               |",
+  "main": "index.js",
+  "dependencies": {
+   
+  },
+  "devDependencies": { 
+    "eslint": "^7.0.0",
+    "jest": "^26.0.1",
+    "lint": "^0.7.0"
+  },
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint '**/*.js'" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/issues"
+  },
+  "homepage": "https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms#readme"
+}
