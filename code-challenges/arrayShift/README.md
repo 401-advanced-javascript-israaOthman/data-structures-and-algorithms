@@ -15,4 +15,4 @@
 - O(n) "n is the length of the array"
 
 ## Solution
-![array-shift](../assets/array-shift.PNG)
+![array-shift](../../assets/array-shift.PNG)

@@ -1,11 +1,11 @@
 'use strict';
 
 function reverseArray(arr){
-    let rev =[];
-    for ( let i=0 , j=arr.length-1 ; i<arr.length ; i++ , j--){ 
-       rev[i]= arr[j];
-    }
- return rev;
+  let rev =[];
+  for ( let i=0 , j=arr.length-1 ; i<arr.length ; i++ , j--){ 
+    rev[i]= arr[j];
+  }
+  return rev;
 }
 
 let arr1=[1, 2, 3, 4, 5, 6];
