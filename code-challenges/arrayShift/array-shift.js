@@ -20,12 +20,12 @@ function insertShiftArray(arr,num){
 
 
 
-let arr1=[2,4,6,8];
-let arr2 = [4,8,15,23,42];
+// let arr1=[2,4,6,8];
+// let arr2 = [4,8,15,23,42];
 
-console.log(insertShiftArray(arr1,5));
-console.log(insertShiftArray(arr2,16));
-console.log(insertShiftArray([],16));
+// console.log(insertShiftArray(arr1,5));
+// console.log(insertShiftArray(arr2,16));
+// console.log(insertShiftArray([],16));
 
 
 module.exports =insertShiftArray;
