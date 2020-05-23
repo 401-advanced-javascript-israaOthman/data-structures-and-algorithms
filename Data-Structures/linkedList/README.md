@@ -19,6 +19,5 @@
 - And if statment 
 - O(n) 
 
-## Solution
-![array-binar-searc](../../assets/.PNG)
+
 

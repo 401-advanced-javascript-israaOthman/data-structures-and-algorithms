@@ -38,6 +38,11 @@ class  LinkedList {
     }
 
     let current = this.head;
+    
+    if(current.value === value){
+      return true;
+    }
+    
     while(current.next){
       if(current.value === value){
         return true;
