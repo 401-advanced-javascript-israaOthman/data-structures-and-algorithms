@@ -93,7 +93,7 @@ class  LinkedList {
     let newNode = new Node(newVal);
 
     if(!this.head){ // if there is no LL return Exeption 
-      return 'Exception';
+      return 'Exception --- no LinkedList';
     }
 
     if(this.head.value === value){ // if the value equals to the head value make the new node as a head 
