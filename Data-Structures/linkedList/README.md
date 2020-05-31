@@ -17,7 +17,17 @@
 - I classes 
 - And while loop
 - And if statment 
-- O(n) 
+- Big O : 
+  + insert method
+     - space --> O(n)
+     - time --> O(1)
+  + includes method
+     - space --> O(1)
+     - time --> O(n)
+  + toString method
+     - space --> O(1)
+     - time --> O(n)
 
-
+# UML 
+![array-binar-searc](../../assets/linkedList2.jpeg)
 
