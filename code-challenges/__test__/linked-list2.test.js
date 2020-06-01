@@ -1,6 +1,6 @@
 'use strict';
 
-const LinkedList = require('../../Data-Structures/linkedList/linked-list.js');
+const LinkedList = require('../../Data-Structures/ll-insertion/ll-insertion');
 
 describe('LinkedList Insertion',()=>{
   it('1- Can successfully add a node to the end of the linked list',()=>{
