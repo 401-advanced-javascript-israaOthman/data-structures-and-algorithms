@@ -20,15 +20,21 @@
 - And if statment 
 - Big O : 
   + append method
-     - space --> O(n)
+     - space --> O(1)
      - time --> O(n)
   + insertBefore method
-     - space --> O(n)
+     - space --> O(1)
      - time --> O(n)
   + insertAfter method
-     - space --> O(n)
+     - space --> O(1)
      - time --> O(n)
 
 # UML 
 ![LL-Insertion-CH-06](../../assets/linkedList3.jpeg)
+
+# whiteboard  
+![append method](../../assets/append.PNG)
+![insertBefor method](../../assets/insertBefore.PNG)
+![inserAfter method](../../assets/insertAfter.PNG)
+
 
