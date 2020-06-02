@@ -8,7 +8,8 @@
   | array-shift           | [challenge-02](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/3)   |
   | array-binary-search   | [challenge-03](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/4)   |
   | linked-list           | [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/7)   |
-  | linked-list insertions| [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/8)   |
+  | linked-list insertions| [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/9)   |
+  | ll-kth-from-end       | [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/10)   |
 
   
 
