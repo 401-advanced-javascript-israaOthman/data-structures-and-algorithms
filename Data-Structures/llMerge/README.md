@@ -14,8 +14,8 @@
 - I used while loop
 - And if statment 
 - Big O : 
-     - space --> O(n)
-     - time --> O(n)
+     - space --> O(n) because it returns a new linked list so it will take n space in memory 
+     - time --> O(n) becase I used for loop to iterate each time I add new node to the list 
 
  
 # whiteboard
