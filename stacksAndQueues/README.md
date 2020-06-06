@@ -19,8 +19,8 @@ I need to create two classes for Stack and Queue with thies methods
 
 
 # whiteboard
-![slack](../../assets/slack.PNG)
-![queue](../../assets/queue.PNG)
+![slack](../assets/slack.PNG)
+![queue](../assets/queue.PNG)
 
 
 
