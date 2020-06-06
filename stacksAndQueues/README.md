@@ -18,7 +18,9 @@ I need to create two classes for Stack and Queue with thies methods
      - time --> O(n^2)
 
 
-<!-- # whiteboard
-![ll-kth-from-end](../../assets/)
- -->
+# whiteboard
+![slack](../../assets/slack.PNG)
+![queue](../../assets/queue.PNG)
+
+
 
