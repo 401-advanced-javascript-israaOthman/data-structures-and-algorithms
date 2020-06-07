@@ -10,6 +10,8 @@
   | linked-list           | [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/7)   |
   | linked-list insertions| [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/9)   |
   | ll-kth-from-end       | [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/10)   |
+  | ll-merge              | [challenge-05](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/12)   |
+
 
   
 
