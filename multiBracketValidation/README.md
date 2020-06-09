@@ -10,7 +10,7 @@
 ## Approach & Efficiency
 - I used for loop ,switch , if statment
 - Big O 
-   + space(n) because I declared an array 
+   + space(1) 
    + time(n) because I used for loop 
 
 ## Solution
