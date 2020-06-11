@@ -66,7 +66,7 @@ function multiBracketValidation2(input){
       if(stack==null){
         return false;
       }
-      if(stack.peek == '}'){
+      if(stack.peek == '{'){
         stack.pop();
       }else {
         return false;
@@ -76,7 +76,7 @@ function multiBracketValidation2(input){
       if(stack==null){
         return false;
       }
-      if(stack.peek == ')'){
+      if(stack.peek == '('){
         stack.pop();
       }else {
         return false;
@@ -86,7 +86,7 @@ function multiBracketValidation2(input){
       if(stack==null){
         return false;
       }
-      if(stack.peek == ']'){
+      if(stack.peek == '['){
         stack.pop();
       }else {
         return false;
