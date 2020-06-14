@@ -132,4 +132,4 @@ class BinarySearchTree{
   }
 }
 
-module.exports = {BT:BinaryTree, BST:BinarySearchTree};
+module.exports = {BT:BinaryTree, BST:BinarySearchTree , node : Node};
