@@ -5,20 +5,20 @@ function FizzBuzzTree(tree){
     return 'Empty tree';
   }
 
-  let copy = Object.assign({}, tree);
+  // let copy = Object.assign({}, tree);
 
   function recursion(node){
-    if(node.value %3 == 0 && node.value %5 == 0) node.value = 'FizzBuzz';
-    else if(node.value %3 == 0) node.value = 'Fizz';
-    else if(node.value %5 == 0) node.value = 'Buzz';
-    else node.value = node.value.toString();
-    
+    if(typeof node.value === 'number'){
+      if(node.value %3 == 0 && node.value %5 == 0) node.value = 'FizzBuzz';
+      else if(node.value %3 == 0) node.value = 'Fizz';
+      else if(node.value %5 == 0) node.value = 'Buzz';
+      else node.value = node.value.toString();
+    }
     if(node.left) recursion(node.left);  
     if(node.right) recursion(node.right);
-
   }
-  recursion(copy.root);
-  return copy;
+  recursion(tree.root);
+  return tree;
 
 }
 
