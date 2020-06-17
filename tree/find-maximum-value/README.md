@@ -12,7 +12,7 @@ and it will return the maximum value stored in the tree.
      - time --> O(n)
 
 # whiteboard
-![BFT](../assets/maxValue.PNG)
+![BFT](../../assets/maxValue.PNG)
 
 
 
