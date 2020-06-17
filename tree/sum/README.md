@@ -1,9 +1,7 @@
 # breadthFirst
 
 ## Challenge
-I will Write an instance method called find-maximum-value. 
-and it will return the maximum value stored in the tree.   
-
+I will Write an instance method that will find the sum of all the odd numbers in a binary search tree. 
 
 ## Approach & Efficiency
 - I used classes, functions, and if statments 
@@ -12,7 +10,7 @@ and it will return the maximum value stored in the tree.
      - time --> O(n)
 
 # whiteboard
-![BFT](../assets/maxValue.PNG)
+![BFT](../../assets/oddSummation.PNG)
 
 
 
