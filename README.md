@@ -17,10 +17,10 @@
   | fifo-animal-shelter      | [challenge-12](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/16)   |
   | multi-bracket-validation | [challenge-13](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/17)   |
   | Tree                     | [challenge-15](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/18)   |
-
-
-
-
+  | fifo-animal-shelter      | [challenge-16](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/19)   |
+  | fizzbuzz-tree            | [challenge-17](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/20)   |
+  |  breadth-first           | [challenge-18](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/22)   |
+  | find-maximum-value       | [challenge-19](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/22)   |
 
 
 
