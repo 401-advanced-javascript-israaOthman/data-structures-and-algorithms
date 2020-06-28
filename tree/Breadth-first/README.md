@@ -14,7 +14,7 @@ and return a list of the values in the tree in the order they were encountered.
      - time --> O(n)
 
 # whiteboard
-![BFT](../assets/breadthFirst.PNG)
+![BFT](../../assets/breadthFirst.PNG)
 
 
 
