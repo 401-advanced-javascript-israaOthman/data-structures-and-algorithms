@@ -20,7 +20,13 @@
   | fifo-animal-shelter      | [challenge-16](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/19)   |
   | fizzbuzz-tree            | [challenge-17](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/20)   |
   |  breadth-first           | [challenge-18](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/22)   |
-  | find-maximum-value       | [challenge-19](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/22)   |
+  | find-maximum-value       | [challenge-19](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/23)   |
+  | breadth-first            | [challenge-20](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/24)   |
+  | summation                | [challenge-21](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/25)   |
+  | insertionSort            | [challenge-26](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/26)   |
+  | Merge Sort               | [challenge-27](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/27)   |
+
+
 
 
 

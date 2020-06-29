@@ -36,7 +36,7 @@
    if(arr.length == 0){
       return 'Empty array';
    }
-   for(let i=1 ; i<=arr.length;i++){
+   for(let i=1 ; i<arr.length;i++){
       let j=i-1;
       let temp = arr[i];
       while(j>=0 && temp<arr[j]){
