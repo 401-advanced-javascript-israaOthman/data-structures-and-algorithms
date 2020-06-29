@@ -1,6 +1,6 @@
 'use strict';
 
-const insertionSort = require('../../insertion-sort/insertionSort');
+const insertionSort = require('../../tracing/insertion-sort/insertionSort');
 
 describe('Insertion Sort ',()=>{
   
