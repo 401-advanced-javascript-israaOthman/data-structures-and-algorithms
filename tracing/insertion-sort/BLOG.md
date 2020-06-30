@@ -51,6 +51,6 @@
   ```
 
 ## Solution
-![insertioSort1](../assets/sort1.jpeg)
-![insertioSort2](../assets/sort2.jpeg)
+![insertioSort1](../../assets/sort1.jpeg)
+![insertioSort2](../../assets/sort2.jpeg)
 
