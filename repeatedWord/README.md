@@ -14,7 +14,7 @@ return the first word to occur more than once in that provided string.
 
 
 # whiteboard
-![whitebord](../assets/firstWord.PNG)
+![whitebord](../assets/repeated.PNG)
 
 
 

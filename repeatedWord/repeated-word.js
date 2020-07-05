@@ -6,7 +6,7 @@ function firstWord(str){
   }
   str = str.replace(/,/g, '');
   let words = str.split(' ');
-//   console.log(words);
+  //   console.log(words);
 
   for(let i=0; i<words.length;i++){
     let w = words[i].toLowerCase();
