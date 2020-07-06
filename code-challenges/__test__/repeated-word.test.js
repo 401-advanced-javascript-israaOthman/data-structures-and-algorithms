@@ -11,7 +11,7 @@ describe('Repeated First Word',()=>{
     
     expect(firstWord(str1)).toEqual('a');
     expect(firstWord(str2)).toEqual('it');
-    // expect(firstWord(str3)).toEqual('summer');
+    expect(firstWord(str3)).toEqual('summer');
 
   });    
 });
