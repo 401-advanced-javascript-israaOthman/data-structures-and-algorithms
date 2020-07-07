@@ -8,10 +8,14 @@ describe('tree_intersection ',()=>{
     tree1.add(5);
     tree1.add(2);
     tree1.add(8);
+    tree1.add(1);
+
     let tree2 = new BST();
     tree2.add(5);
     tree2.add(2);
     tree2.add(8);
+    tree2.add(10);
+
     expect(tree_intersection(tree1,tree2)).toEqual([5,2,8]);    
   });
 });

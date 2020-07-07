@@ -11,7 +11,7 @@ and return a set of values found in both trees.
      - time --> O(n2)
 
 # whiteboard
-![intersection](../../assets/intersection.PNG)
+![intersection](../assets/intersection.PNG)
 
 
 
