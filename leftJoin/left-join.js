@@ -13,16 +13,33 @@ function leftJoin (hash1,hash2){
       if(Object.keys(object)[0]){
         // console.log(object);
         // console.log()
-        let test=Object.keys(object)[0]
+        let test=Object.keys(object)[0];
 
         smallArr[0]=test;
         smallArr[1]=object[test];
-        // console.log(smallArr);
-        let antonyms= hash2.get(test);
-        console.log(antonyms);
-        if(antonyms){
-          smallArr[2]=antonyms[test];
+        // ***********************************
+        
+        let hash = hash2.hash(test);
+        if(hash2.map[hash]){
+          let arr = hash2.map[hash].values();
+      
+          arr.forEach(val =>{
+      
+            if(Object.keys(val)[0]==test){
+              // console.log(val);
+              smallArr[2]=val[test];
+            }else{
+              smallArr[2]='Null';
+            }
+          });
+        }else{
+          smallArr[2]='Null';
         }
+        
+        // ***********************************
+
+
+
       }
       result.push(smallArr);
     });
