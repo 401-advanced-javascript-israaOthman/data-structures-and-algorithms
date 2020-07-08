@@ -27,7 +27,9 @@
   | Merge Sort               | [challenge-27](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/27)   |
   | Quick Sort               | [challenge-28](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/28)   |
   | Hashmap                  | [challenge-30](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/29)   |
-  | first repeated word      | [challenge-32](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/30)   |
+  | first repeated word      | [challenge-31](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/30)   |
+  | tree_intersection        | [challenge-32](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/31)   |
+
 
 
 
