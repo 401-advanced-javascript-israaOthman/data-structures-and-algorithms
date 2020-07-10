@@ -45,11 +45,12 @@ class Hashmap {
   }
 
   hash(key) { 
-    return key.split('').reduce((p, n) => {
-      return p + n.charCodeAt(0);
-    }, 0) * 599 % this.size;
+    if(key){
+      return key.split('').reduce((p, n) => {
+        return p + n.charCodeAt(0);
+      }, 0) * 599 % this.size;
+    }
   }
-
   set(key, value) {
 
     let hash = this.hash(key);
@@ -68,6 +69,7 @@ class Hashmap {
       arr.forEach(val =>{
 
         if(Object.keys(val)[0]==key){
+          console.log(val);
           return val;
         }else{
           return null;
