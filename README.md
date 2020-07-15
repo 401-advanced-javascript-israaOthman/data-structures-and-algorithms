@@ -33,9 +33,7 @@
   | Graph                    | [challenge-34](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/33)   |
   | Graph-bfs                | [challenge-36](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/34)   |
   | GetEdge                  | [challenge-37](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/35)   |
-
-
-                                                          
+  | Depth-first              | [challenge-38](https://github.com/401-advanced-javascript-israaOthman/data-structures-and-algorithms/pull/36)   |                        
 
 
 
